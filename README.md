@@ -1,6 +1,6 @@
 # robotarm0
 
-pip install meshcat
+pip install meshcat urdf_parser_py pybullet
 
 python main.py
 
