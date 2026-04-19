@@ -1,6 +1,6 @@
 meshcat
 numpy
 fastapi
-see-starlette
+sse-starlette
 uvicorn
 pybullet

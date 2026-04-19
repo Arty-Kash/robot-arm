@@ -1,10 +1,14 @@
 # robotarm0
 
-pip install meshcat urdf_parser_py pybullet
+pip install -r requirements.txt
 
 python main.py
 
-上記実行後、7000番ポートの地球儀をクリックし、URLの末尾に/staticを追加してアクセスする。
+上記実行後、8000番ポートの地球儀をクリック．
+
+
+
+
 
 https://psychic-trout-4gqj5xxp9x6c7xr5-7000.app.github.dev/static/
 
