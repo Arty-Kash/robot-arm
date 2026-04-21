@@ -1,4 +1,4 @@
-# robotarm0
+# robot-arm
 
 pip install -r requirements.txt
 
